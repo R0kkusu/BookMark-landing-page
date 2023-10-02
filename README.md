@@ -33,28 +33,12 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/alexander-hergert/bookmark-landing-page)
-- Live Site URL: [Live Site URL](https://a-hergert-bookmark-landing-page.netlify.app)
+- Solution URL: 
+- Live Site URL: 
 
 ## My process
 
-- Add basic structure and create components
-- Style NavBar using daisyUI. Create responsiveness and modal menu. Create clickable menu.
-- Add Header using Tailwind-CSS. Make it responsive.
-- Add Features using Tailwind-CSS. Make it responsive.
-- Add Download using Tailwind-CSS and DaisyUI. Make it responsive.
-- Add FAQ using Tailwind-CSS and DaisyUI. Overiding classes. Make it responsive.
-- Add Contact using Tailwind-CSS and DaisyUI. Make it responsive.
-- Add Footer using Tailwind-CSS and DaisyUI. Make it responsive.
-- Add Navbar active styles and refactor code. Separate into Modal component.
-- Add active styles to Header.
-- Refactor Features component. Create FeaturesTitle, FeatureTabs, Tabs, FeatureDetails, Detail. Fix styles and responsiveness.
-- Refactor Download section. Create Card component.
-- Refactor FAQ and create FAQItem. Change styles for responsiveness and active states.
-- Add active styles and functionality to Contact.
-- Add footer active states and change some styles on Contact component.
-- Improve accessibility and SEO.
-- Add animations and some style changes.
+
 
 ### Built with
 
